@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Graduate",
+    "Non Credit"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "cfd0eb62-14b6-b069-561e-c410b788dd03"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "587970aa-a519-4a8c-9c9b-56634a4f986b",
+    "website": "noncommutative-algebra"
+  },
+  "course_title": "Noncommutative Algebra",
+  "hide_download": false,
+  "course_description": "Noncommutative algebra studies algebraic phenomena involving multiplication for which commutativity law fails, such as product of matrices in linear algebra; such phenomena arise in various disciplines ranging from quantum physics to number theory.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.706",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "noncommutative-algebra"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "72903cb3-a5a6-4526-aa0d-9f11ab20ee6c",
+  "site_short_id": "18.706-spring-2023"
+}
